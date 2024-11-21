@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpProj\\TestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0889E-562A-4546-8498-45AA59C264B9}|TestAPI.csproj|c:\\csharpproj\\testapi\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0889E-562A-4546-8498-45AA59C264B9}|TestAPI.csproj|solutionrelative:controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0889E-562A-4546-8498-45AA59C264B9}|TestAPI.csproj|c:\\csharpproj\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0889E-562A-4546-8498-45AA59C264B9}|TestAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0889E-562A-4546-8498-45AA59C264B9}|TestAPI.csproj|c:\\csharpproj\\testapi\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0889E-562A-4546-8498-45AA59C264B9}|TestAPI.csproj|solutionrelative:db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\CSharpProj\\TestAPI\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DogController.cs",
+              "ToolTip": "C:\\CSharpProj\\TestAPI\\Controllers\\DogController.cs",
+              "RelativeToolTip": "Controllers\\DogController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowEMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:08:40.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\CSharpProj\\TestAPI\\DB\\DBContext.cs",
+              "RelativeDocumentMoniker": "DB\\DBContext.cs",
+              "ToolTip": "C:\\CSharpProj\\TestAPI\\DB\\DBContext.cs",
+              "RelativeToolTip": "DB\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:53:19.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpProj\\TestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\CSharpProj\\TestAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:41:43.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
