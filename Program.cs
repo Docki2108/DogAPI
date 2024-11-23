@@ -38,7 +38,7 @@ app.UseCors();
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "ToDo API V1");
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Dog API V1");
     c.RoutePrefix = "swagger";
 });
 
